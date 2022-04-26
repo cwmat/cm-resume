@@ -105,7 +105,7 @@ class Contact extends Component {
               <p className='address'>
                 {name}
                 <br />
-                {city}, {state} / Remote
+                {state}, {city} / Remote
               </p>
             </div>
           </aside>

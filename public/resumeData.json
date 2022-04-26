@@ -26,6 +26,11 @@
         "name": "github",
         "url": "https://github.com/cwmat",
         "className": "fa fa-github"
+      },
+      {
+        "name": "GIS Stack Exchange",
+        "url": "https://gis.stackexchange.com/users/6199/chaz",
+        "className": "fa fa-stack-exchange"
       }
     ]
   },
@@ -48,7 +53,7 @@
         "school": "Virginia Commonwealth University: School of Life Sciences",
         "degree": "Bachelors of Science in Environmental Studies",
         "graduated": "2012",
-        "description": "Environmental Policy and Economics, Ecology, Biology, Statistics, Meteorology, Oceanography, Environmental Geology, Geography, Research Methods in Social Sciences, Technical Writing."
+        "description": "Environmental Policy and Economics, Ecology, Biology, Statistics, Meteorology, Oceanography, Environmental Geology, Geography, Research Methods in Social Sciences, Technical Writing, Computer Science."
       }
     ],
     "work": [
@@ -87,7 +92,7 @@
         "level": "90%"
       },
       {
-        "name": "JavaScript/Node JS",
+        "name": "JavaScript/Node JS/Typescript",
         "level": "90%"
       },
       {
@@ -157,32 +162,32 @@
       {
         "title": "Wildlife Health Survey",
         "category": "Angular PWA for crowd sourced wildlife health information",
-        "image": "temp.jpg",
-        "url": ""
+        "image": "whs.jpg",
+        "url": "https://docs.google.com/presentation/d/1hcHuasSJ9_PemXupkRerljRHmR5PmcfFAoMJuhAG60k/edit?usp=sharing"
       },
       {
         "title": "NM Shared Stewardship",
         "category": "Spatial accomplishment tracking and reporting for wildfire mitigation",
-        "image": "temp.jpg",
-        "url": ""
+        "image": "nm.jpg",
+        "url": "https://docs.google.com/presentation/d/1uGgsJc1NAsoGtgTZKXLUwcH2d9m-QSonxmavF4BHF3Y/edit?usp=sharing"
       },
       {
         "title": "WisFIRS",
         "category": "Enterprise forestry inventory management system",
-        "image": "temp.jpg",
-        "url": ""
+        "image": "wis.jpg",
+        "url": "https://docs.google.com/presentation/d/1sZjGRBk32TC3gLsAARHLKi5NBNp9KwikNvQTJ-NRiHE/edit?usp=sharing"
       },
       {
         "title": "Serverless ETL",
         "category": "A Node JS Serverless ETL solution modified for use in a presentation I gave at Harrisburg University Geo Dev Summit 2022",
-        "image": "temp.jpg",
-        "url": ""
+        "image": "etl.jpg",
+        "url": "https://github.com/cwmat-tg/cloud_gis_etl"
       },
       {
         "title": "GeoFormat",
         "category": "WIP hobby project in React JS for formatting and exporting geospatial data in different data formats and projections.",
         "image": "geo.jpg",
-        "url": "https://cwmat.github.io/geo-format/map"
+        "url": "https://cwmat.github.io/geo-format"
       },
       {
         "title": "Wind Energy Data Viz",
