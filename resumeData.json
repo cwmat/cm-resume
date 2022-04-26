@@ -1,0 +1,224 @@
+{
+  "main": {
+    "name": "Chaz Mateer",
+    "occupation": "Software Engineer",
+    "description": "Currently working on enterprise geospatial applications as a Full Stack Web Developer at Timmons Group and have over ten years of professional GIS and development experience in the private and public sectors",
+    "image": "profilepic.jpg",
+    "bio": "I am a certified Geographic Information Systems (GIS) Professional (GISP) who started my career working as a data analyst and Python developer for a Defense contracting firm.  I worked briefly for State government, wearing multiple ‘hats’: creating interactive data visualizations/dashboards, managing GIS web services, ETL scripting, and being a champion for technology and data driven decisions at the agency.  I currently work as a full stack web developer/GIS developer consulting with a myriad of clients from different sectors and architect and implement custom enterprise web and data solutions with a geospatial focus.  I have a passion for front end development, data visualization, and learning new ways to efficiently deliver exciting interactive user experiences.",
+    "contactmessage": "Please feel free to reach out with any questions.",
+    "email": "chaz.mateer@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "xxxxxx",
+      "city": "Virginia",
+      "state": "Richmond",
+      "zip": "xxxxxx"
+    },
+    "website": "https://chaz-mateer.com",
+    "resumedownload": "https://drive.google.com/file/d/1wLf6D7LETBnsrzDwgmwsT0iy7Qwf9hKh/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/charles-mateer-gisp-317bb649/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/cwmat",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "GIS Stack Exchange",
+        "url": "https://gis.stackexchange.com/users/6199/chaz",
+        "className": "fa fa-stack-exchange"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is a breakdown of some of the top skills and technologies that I use most often.",
+    "education": [
+      {
+        "school": "Harvard University: School of Extension Studies",
+        "degree": "Masters of Liberal Arts in Information Management Systems",
+        "graduated": "2019",
+        "description": "Web GIS, Dynamic Web Applications, Data Visualization, Cyber Security, Project Management, Cloud Computing, Database Systems, Data Science and Statistics."
+      },
+      {
+        "school": "Udacity",
+        "degree": "Nanodegeree in Front End Web Development",
+        "graduated": "2015",
+        "description": "HTML, CSS, JavaScript, Responsive Design, JavaScript Design Patterns, Test Driven Development, Front-End Web Frameworks, Website Optimization, Modern Web Development BMPs, AJAX."
+      },
+      {
+        "school": "Virginia Commonwealth University: School of Life Sciences",
+        "degree": "Bachelors of Science in Environmental Studies",
+        "graduated": "2012",
+        "description": "Environmental Policy and Economics, Ecology, Biology, Statistics, Meteorology, Oceanography, Environmental Geology, Geography, Research Methods in Social Sciences, Technical Writing, Computer Science."
+      }
+    ],
+    "work": [
+      {
+        "company": "Timmons Group",
+        "title": "Software Engineer",
+        "years": "August 2018 - Present",
+        "description": "Full stack web development with an emphasis on enterprise geospatial applications and solutions using modern tech stacks and cloud architecture."
+      },
+      {
+        "company": "Virginia Department of Emergency Management",
+        "title": "IT Specialist",
+        "years": "February 2017 - August 2018",
+        "description": "GIS data/server management and development for statewide emergencies."
+      },
+      {
+        "company": "Marstel-Day, LLC",
+        "title": "Analyst",
+        "years": "November 2012 - December 2016",
+        "description": "Geospatial analysis, modeling, and Python/web development for federal environmental and land use planning projects."
+      },
+      {
+        "company": "National Park Service",
+        "title": "GIS Intern",
+        "years": "May 2012 - September 2012",
+        "description": "Conducted geospatial analysis, cartography, geodatabase management, GPS data collection, water quality testing, and wildlife surveys."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript/Node JS/Typescript",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "35%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "C#",
+        "level": "70%"
+      },
+      {
+        "name": ".NET",
+        "level": "70%"
+      },
+      {
+        "name": "Postgres/PostGIS",
+        "level": "65%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "AWS Cloud Development",
+        "level": "70%"
+      },
+      {
+        "name": "Azue/GCP Cloud Development",
+        "level": "45%"
+      },
+      {
+        "name": "Agile Development",
+        "level": "80%"
+      },
+      {
+        "name": "Presentation Skills/Training/Team Player",
+        "level": "90%"
+      },
+      {
+        "name": "Project Management/Business Analysis",
+        "level": "80%"
+      },
+      {
+        "name": "Technical Writing",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Wildlife Health Survey",
+        "category": "Angular PWA for crowd sourced wildlife health information",
+        "image": "whs.jpg",
+        "url": "https://docs.google.com/presentation/d/1hcHuasSJ9_PemXupkRerljRHmR5PmcfFAoMJuhAG60k/edit?usp=sharing"
+      },
+      {
+        "title": "NM Shared Stewardship",
+        "category": "Spatial accomplishment tracking and reporting for wildfire mitigation",
+        "image": "nm.jpg",
+        "url": "https://docs.google.com/presentation/d/1uGgsJc1NAsoGtgTZKXLUwcH2d9m-QSonxmavF4BHF3Y/edit?usp=sharing"
+      },
+      {
+        "title": "WisFIRS",
+        "category": "Enterprise forestry inventory management system",
+        "image": "wis.jpg",
+        "url": "https://docs.google.com/presentation/d/1sZjGRBk32TC3gLsAARHLKi5NBNp9KwikNvQTJ-NRiHE/edit?usp=sharing"
+      },
+      {
+        "title": "Serverless ETL",
+        "category": "A Node JS Serverless ETL solution modified for use in a presentation I gave at Harrisburg University Geo Dev Summit 2022",
+        "image": "etl.jpg",
+        "url": "https://github.com/cwmat-tg/cloud_gis_etl"
+      },
+      {
+        "title": "GeoFormat",
+        "category": "WIP hobby project in React JS for formatting and exporting geospatial data in different data formats and projections.",
+        "image": "geo.jpg",
+        "url": "https://cwmat.github.io/geo-format"
+      },
+      {
+        "title": "Wind Energy Data Viz",
+        "category": "Data Visualization for wind energy data using D3.js",
+        "image": "wind.jpg",
+        "url": "http://cwmat.github.io/CSC171_Final/"
+      },
+      {
+        "title": "Power Outage Analysis",
+        "category": "A Python web scraper and data aggregator for pulling together power outage data form multiple providers for use in a dashboard.",
+        "image": "outage.jpg",
+        "url": "https://github.com/cwmat/outage_analysis"
+      },
+      {
+        "title": "Imaginary Surface Obstruction Analysis",
+        "category": "A Python tool developed for assessing the presence of vertical obstructions within the imaginary surface planes around an airfield.",
+        "image": "obs.jpg",
+        "url": "https://github.com/cwmat/ImaginarySurfaceObstructions"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
