@@ -164,6 +164,30 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Blog: The Role of AI in Geospatial Solutions",
+        "category": "From Traditional Models to Generative AI",
+        "image": "role_ai.jpg",
+        "url": "https://www.timmonsgis.com/2025/02/the-role-of-ai-in-geospatial-solutions-from-traditional-models-to-generative-ai/"
+      },
+      {
+        "title": "Blog: Pioneering the Future of GIS",
+        "category": "Predicting GIS Industry Patterns in 2025",
+        "image": "future.jpg",
+        "url": "https://www.timmonsgis.com/2025/01/pioneering-the-future-of-gis-predicting-gis-industry-patterns-in-2025/"
+      },
+      {
+        "title": "Blog: The IT Manager's Strategy for Data-Driven Government",
+        "category": "Leveraging Data to Enhance Public Services and Decision-Making",
+        "image": "data_gov.jpg",
+        "url": "https://www.timmonsgis.com/2021/03/the-it-managers-strategy-for-data-driven-government/"
+      },
+      {
+        "title": "Grant Accomplishments Reporting Portal (GARP)",
+        "category": "Tech lead and individual contributor for a suite of serverless web applications for federal grant reporting",
+        "image": "garp.jpg",
+        "url": "https://garphub.org/"
+      },
+      {
         "title": "Wildlife Health Survey",
         "category": "Angular PWA for crowd sourced wildlife health information",
         "image": "whs.jpg",
