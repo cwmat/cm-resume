@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Chaz Mateer",
-    "occupation": "Software Engineer",
-    "description": "Currently working on enterprise geospatial applications as a Full Stack Web Developer at Timmons Group and have over ten years of professional GIS and development experience in the private and public sectors",
+    "occupation": "Solution Architect",
+    "description": "Currently working on enterprise geospatial applications at Timmons Group and have over ten years of professional GIS and development experience in the private and public sectors",
     "image": "profilepic.jpg",
-    "bio": "I am a certified Geographic Information Systems (GIS) Professional (GISP) who started my career working as a data analyst and Python developer for a Defense contracting firm.  I worked briefly for State government, wearing multiple ‘hats’: creating interactive data visualizations/dashboards, managing GIS web services, ETL scripting, and being a champion for technology and data driven decisions at the agency.  I currently work as a full stack web developer/GIS developer consulting with a myriad of clients from different sectors and architect and implement custom enterprise web and data solutions with a geospatial focus.  I have a passion for front end development, data visualization, and learning new ways to efficiently deliver exciting interactive user experiences.",
+    "bio": "I am a certified Geographic Information Systems (GIS) Professional (GISP) who started my career working as a data analyst and Python developer for a Defense contracting firm.  I worked briefly for State government, wearing multiple ‘hats’: creating interactive data visualizations/dashboards, managing GIS web services, ETL scripting, and being a champion for technology and data driven decisions at the agency.  I currently work as a Solution Architect consulting with a myriad of clients from different sectors and architect and implement custom enterprise web and data solutions with a geospatial focus using cloud native technologies.  I have a passion for cloud engineering, data visualization, and learning new ways to efficiently deliver exciting interactive user experiences.",
     "contactmessage": "Please feel free to reach out with any questions.",
     "email": "chaz.mateer@gmail.com",
     "phone": "555-555-5555",
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/charles-mateer-gisp-317bb649/",
+        "url": "https://www.linkedin.com/in/chaz-mateer-gisp-317bb649/",
         "className": "fa fa-linkedin"
       },
       {
@@ -59,7 +59,7 @@
     "work": [
       {
         "company": "Timmons Group",
-        "title": "Software Engineer",
+        "title": "Software Engineer --> Solution Architect",
         "years": "August 2018 - Present",
         "description": "Full stack web development with an emphasis on enterprise geospatial applications and solutions using modern tech stacks and cloud architecture."
       },
@@ -97,15 +97,11 @@
       },
       {
         "name": "Angular",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "ReactJs",
-        "level": "60%"
-      },
-      {
-        "name": "VueJs",
-        "level": "35%"
+        "level": "90%"
       },
       {
         "name": "Python",
@@ -113,19 +109,19 @@
       },
       {
         "name": "C#",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": ".NET",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "Postgres/PostGIS",
-        "level": "65%"
+        "level": "80%"
       },
       {
         "name": "SQL",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "Git",
@@ -133,10 +129,18 @@
       },
       {
         "name": "AWS Cloud Development",
+        "level": "80%"
+      },
+      {
+        "name": "Infrastructure as Code",
         "level": "70%"
       },
       {
-        "name": "Azue/GCP Cloud Development",
+        "name": "DevOps CI/CD",
+        "level": "70%"
+      },
+      {
+        "name": "Azure/GCP Cloud Development",
         "level": "45%"
       },
       {
@@ -212,12 +216,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "",
+        "user": ""
       }
     ]
   }
